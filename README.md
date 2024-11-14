@@ -1,6 +1,6 @@
 # Invoice SaaS with Next.js and Neon
 
-A modern, scalable invoicing Software-as-a-Service (SaaS) application built with Next.js and powered by Neon Postgres.
+A modern, scalable invoicing application built with Next.js.
 
 
 ## Overview
