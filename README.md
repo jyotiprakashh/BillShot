@@ -1,4 +1,4 @@
-# Invoice SaaS with Next.js and Neon
+# Invoice Generator App
 
 A modern, scalable invoicing application built with Next.js.
 
