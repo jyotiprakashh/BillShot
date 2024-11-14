@@ -2,17 +2,10 @@
 
 A modern, scalable invoicing Software-as-a-Service (SaaS) application built with Next.js and powered by Neon Postgres.
 
-![image](https://github.com/user-attachments/assets/4b68fdb4-75b7-4638-99e1-c3e01cae807d)
-
 
 ## Overview
 
 This project demonstrates how to build a robust, full-featured invoicing system. It leverages the power of Next.js for a seamless, combined with the scalability and performance of Neon's serverless Postgres database.
-
-## Tutorial
-
-This project is based on the following tutorial:
-[Full Stack Development with Next.js, Clerk, and Neon Postgres](https://www.freecodecamp.org/news/build-an-invoice-saas-app-with-next-js-and-neon-postgres/)
 
 ## Key Features
 
@@ -29,11 +22,6 @@ This project is based on the following tutorial:
 - Authentication: Clerk
 - Deployment: Vercel (frontend), Neon (database)
 
-## Prerequisites
-
-- Node.js (v14 or later)
-- npm or yarn
-- Git
 
 ## Getting Started
 
